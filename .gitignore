@@ -1,0 +1,7 @@
+# Python Virtual Environment
+.venv/
+__pycache__/
+
+# YOLO/Ultralytics specific files (Weights and Runs)
+yolov8s.pt
+runs/
