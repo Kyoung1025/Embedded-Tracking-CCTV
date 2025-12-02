@@ -1,4 +1,4 @@
-# Embedded-Tracking-CCTV
+# 임베디드 최종 과제 - Embedded-Tracking-CCTV
 
 ## 실행방법
 
